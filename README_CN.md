@@ -8,9 +8,9 @@ guard 是一个基于etcd v3的服务注册与发现组件, 从生产项目中�
 
 ## 安装
 
-···
+```shell script
 go get github.com/Forget-C/guard
-···
+```
 
 ## 使用
 

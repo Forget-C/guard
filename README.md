@@ -8,9 +8,9 @@ Support for custom trigger events, you can define multiple and chained execution
 
 ## Install
 
-···
+```shell script
 go get github.com/Forget-C/guard
-···
+```
 
 ## Usage
 
