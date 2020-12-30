@@ -1,4 +1,4 @@
-English|中文(中文)[README_CN.md]
+[README.md](English)|[README_CN.md](中文)
 
 Guard is an ETCD V3 based service registration and discovery component that was stripped from the production project and is currently in iteration
 
