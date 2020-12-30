@@ -1,4 +1,4 @@
-module discover
+module github.com/Forget-C/guard
 
 go 1.13
 
