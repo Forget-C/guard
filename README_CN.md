@@ -1,4 +1,4 @@
-[README.md](English)|[README_CN.md](中文)
+[English](README.md)|[中文](README_CN.md)
 
 guard 是一个基于etcd v3的服务注册与发现组件, 从生产项目中剥离出， 并且目前还在迭代中
 
