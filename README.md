@@ -1,3 +1,5 @@
+English|中文(中文)[README_CN.md]
+
 Guard is an ETCD V3 based service registration and discovery component that was stripped from the production project and is currently in iteration
 
 Support service multi-copy registration and discovery, with rotation training, support load balancing
@@ -81,7 +83,7 @@ type DiscoverState struct {
 ```
 
 ##### Gets all the child states of a listening state
-当被监听者为多副本时, 需要使用此函数获取数据
+This function needs to be used to retrieve data when the listener is multiple copies
 ```go
 d.PrefixGetChildren(path)
 ```
